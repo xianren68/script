@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         kemono.su
-// @namespace    http://tampermonkey.net/
+// @namespace    http://kemono.su/
 // @version      2024-09-21
-// @description  自动下载telegra.ph页面上的图片为ZIP
+// @description  自动下载kemono.su的图片
 // @author       You
 // @match        https://kemono.su/patreon/user/*/post/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
